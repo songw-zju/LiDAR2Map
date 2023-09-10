@@ -1,7 +1,7 @@
 # LiDAR2Map
 > Song Wang, Wentong Li, Wenyu Liu, Xiaolu Liu, Jianke Zhu*
 
-This is the official implementation of **LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation** (CVPR 2023)  [[Paper](https://arxiv.org/pdf/2304.11379.pdf)] [[Video]()].
+This is the official implementation of **LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation** (CVPR 2023)  [[Paper](https://arxiv.org/pdf/2304.11379.pdf)] [[Video](https://youtu.be/nr25xFZbx8U?si=P8n6bl0-9Cx3uq2u)].
 
 A preliminary version is uploaded in the `dev` branch.
 
