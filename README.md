@@ -10,7 +10,7 @@ This is the official implementation of **LiDAR2Map: In Defense of LiDAR-Based Se
 Please download the whole nuScene dataset from the [official website](https://www.nuscenes.org/nuscenes).
 
 ### Environment setup
-Our project is built with [Pytorch](https://pytorch.org/get-started/locally/) >= 1.7 and revised [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) from [bevfusion](https://github.com/mit-han-lab/bevfusion).
+Our project is built with [Pytorch](https://pytorch.org/get-started/locally/) >= 1.7 and revised [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) from [BEVFusion](https://github.com/mit-han-lab/bevfusion).
 
 You can install the [tree-filter](https://github.com/megvii-research/TreeEnergyLoss) by:
 ```bash
